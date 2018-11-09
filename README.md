@@ -31,4 +31,6 @@ Changes:
 - Music to play during game (Complete)
 - Maze (Complete)
 - Scattered Points (In Progress)
+- Negative Points ( In Progress)
+- Death/ReSpawn Pentalty ( In Progress)
 ```
