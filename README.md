@@ -29,4 +29,6 @@ Changes:
 
 ```
 - Music to play during game (Complete)
+- Maze (Complete)
+- Scattered Points (In Progress)
 ```
