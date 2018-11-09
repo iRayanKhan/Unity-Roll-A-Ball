@@ -20,4 +20,7 @@ Changes:
 
 ```
 - Music to play during game (Complete)
+- Textured Walls (In Progress)
+- Maze
+- Scattered Points
 ```
