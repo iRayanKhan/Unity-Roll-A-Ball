@@ -24,13 +24,12 @@ Changes:
 
 
 
-
-# To Be in V1.1:
+# In V1.1.0
 
 ```
 - Music to play during game (Complete)
 - Maze (Complete)
-- Scattered Points (In Progress)
-- Negative Points ( In Progress)
+- Scattered Points (Complete)
+- Negative Points (Complete)
 - Death/ReSpawn Pentalty ( In Progress)
 ```
