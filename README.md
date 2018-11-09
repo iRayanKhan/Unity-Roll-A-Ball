@@ -3,7 +3,7 @@ A Roll-A-Ball Project for Unity. You have to move the Pick Up Objects as they ar
 
 # Change Log:
 
-In Version 1.0
+In Version 1.0 (Now updated to V1.1.0)
 ```
 Changes:
 1) Added Project file which inluces
