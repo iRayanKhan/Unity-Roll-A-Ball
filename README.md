@@ -16,6 +16,15 @@ Changes:
 -Camera Rules
 -Event System (Null)
 ```
+# Maze Answers:
+
+
+```
+![alt text]https://imgur.com/F7jhnTg
+```
+
+
+
 # To Be in V1.1:
 
 ```
