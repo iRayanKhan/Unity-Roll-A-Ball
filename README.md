@@ -19,9 +19,9 @@ Changes:
 # Maze Answers:
 
 
-```
+
 ![screen shot 2018-11-08 at 10 23 01 pm](https://user-images.githubusercontent.com/34495712/48243712-5337a780-e3a7-11e8-81bd-a5690dfd94a8.jpg)
-```
+
 
 
 
