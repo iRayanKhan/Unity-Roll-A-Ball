@@ -3,7 +3,7 @@ A Roll-A-Ball Project for Unity. You have to move the Pick Up Objects as they ar
 
 # Change Log:
 
-In Version 1.0 (Now updated to V1.1.0)
+In Version 1.0 (Now updated to V2.0)
 ```
 Changes:
 1) Added Project file which inluces
@@ -16,7 +16,7 @@ Changes:
 -Camera Rules
 -Event System (Null)
 ```
-# Maze Answers:
+# Maze Answers: (Old) 
 
 
 
@@ -24,7 +24,7 @@ Changes:
 
 
 
-# In V1.1.0
+# In V1.1.0 (Updated to 2.0)
 
 ```
 - Music to play during game (Complete)
@@ -47,6 +47,7 @@ A unity project for Roll A Ball (modified)
 - Music File Re-Added as "Into the wild - Kovan" (Copy right free)
 - 2 Players (Beta) Remove as controls are the same atm fix in V2.1
 - Changed Game Text to say "You've won 12pts"
+- Added the .app file (pre-compiled)
 
 #Known Issues:
 - Points may add by either 1 or 2
