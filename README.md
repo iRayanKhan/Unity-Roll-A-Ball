@@ -1,6 +1,6 @@
-# Unity-Roll-A-Ball
+# Unity Roll a ball project
 
-
+A unity project for Roll A Ball (modified)
 # Change Log:
 
 In Version 1.0 (Now updated to V2.0)
@@ -35,12 +35,10 @@ Changes:
 - Death/ReSpawn Penalty ( In Progress)
 ```
 
-# Unity Roll a ball project
 
-A unity project for Roll A Ball (modified)
 
-#Change Log V2.0 (Latest)
-
+# Change Log V2.0 (Latest)
+```
 - Changed Maze with new Yellow Walls and new Maze Directions
 - Added another maze that makes you fall to be into another maze when completed
 - Re-Arranged Pick Up cubes 
@@ -57,4 +55,4 @@ A unity project for Roll A Ball (modified)
 - 2 Cameras exist only 1 works
 - Game Win Text says 12 points won (Needs to be changed to a variable. 
 
- 
+ ```
