@@ -16,7 +16,7 @@ Changes:
 -Camera Rules
 -Event System (Null)
 ```
-# Maze Answers: (Old) 
+# Maze Answers: For V2.0
 
 
 
