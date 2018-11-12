@@ -20,7 +20,8 @@ Changes:
 
 
 
-![screen shot 2018-11-08 at 10 23 01 pm](https://user-images.githubusercontent.com/34495712/48243712-5337a780-e3a7-11e8-81bd-a5690dfd94a8.jpg)
+![screen shot 2018-11-12 at 12 26 51 pm](https://user-images.githubusercontent.com/34495712/48367554-a8f5a380-e676-11e8-9c06-7ba474ae2213.jpg)
+
 
 
 
