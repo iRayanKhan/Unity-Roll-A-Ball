@@ -47,8 +47,9 @@ Changes:
 - 2 Players (Beta) Remove as controls are the same atm fix in V2.1
 - Changed Game Text to say "You've won 12pts"
 - Added the .app file (pre-compiled)
-
-#Known Issues:
+```
+# Known Issues:
+```
 - Points may add by either 1 or 2
 - Negative Points Removed/Delayed
 - User May be able to cheat the 2nd Maze via momentum
