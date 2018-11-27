@@ -50,9 +50,8 @@ Changes:
 ```
 # Known Issues:
 ```
-- Points may add by either 1 or 2
+
 - Negative Points Being added in V3
-- _User May be able to cheat the 2nd Maze via momentum_
 - 2 Cameras exist only 1 works
 - Game Win Text says 12 points won (Needs to be changed to a variable.)
 
